@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body { margin: 0px; padding: 0px; font-family: 'Lato', sans-serif; color: #000; overflow: auto;}
+
+rockstar
+{
+	font-size:18px;
+	padding:100px;
+	background-color:#d0d0d0;
+	display:block;
+}
+
+header
+{
+	font-size:14px;
+	background-color:yellow;
+	border:1px solid #333;
+	display:block;
+}
+
+section
+{
+	font-size:13px;
+	background-color:#999;
+	border:1px solid #333;
+	padding:40px;
+	display:block;
+}
